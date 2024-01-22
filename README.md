@@ -1,3 +1,7 @@
+# stock-cutting-improved
+
+This project is an attempt at improving the existing UI of stock-cutting problem
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
