@@ -21,6 +21,7 @@ function App() {
 
   console.log('OUTPUT: ', output1);
 
+  // solution - /config-overrides.js && /package.json -> replaced react-scripts with react-app-rewired
   return <div className='App'>{<text>{'this is the output: '}</text>}</div>;
 }
 
